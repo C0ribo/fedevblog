@@ -3,6 +3,6 @@ template: "index-template"
 title: "Gatsby Starter Glass"
 ---
 
-# Hello World
+# 솜사탕 하리보
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+*Front-End Study BLog*

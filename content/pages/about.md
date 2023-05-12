@@ -1,12 +1,15 @@
 ---
 title: About Mee
 template: about-template
-profile_image: /media/profile-image.jpg
+profile_image: /media/about_profile.png
 ---
 
-# Hi, I'm John Doe
+# I'm C0ribo   
+* * *
 
-This website is a live example of a Gatsby Starter — it's not a real blog.
-People using this starter may want to add some information to this page about them or their business.
+* 프론트엔드 개발자가 되기 위한 기록형 블로그   
+* HTML CSS JavaScript
+<b></b>   
+* contect : <dmsry1022@gmail.com>
 
 

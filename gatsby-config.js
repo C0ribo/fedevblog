@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `C0ribo`,
     author: {
       name: `Yinka Adedire`,
       summary: `Self-taught front-end web dev. JAMStack.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
+    description: `프론트엔드 개발 지망생`,
     siteUrl: `https://gatsbyglass.netlify.app`,
     social: {
       twitter: `yinkakun`,
@@ -14,16 +14,16 @@ module.exports = {
     socialLinks: [
       {
         name: "github",
-        url: "https://github.com",
+        url: "https://github.com/C0ribo",
       },
-      {
-        name: "twitter",
-        url: "https://twitter.com",
-      },
-      {
-        name: "instagram",
-        url: "https://instagram.com",
-      },
+      // {
+      //   name: "twitter",
+      //   url: "https://twitter.com",
+      // },
+      // {
+      //   name: "instagram",
+      //   url: "https://instagram.com",
+      // },
     ],
   },
   plugins: [
@@ -160,7 +160,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/icon.png`,
+        icon: `src/images/icon1.PNG`,
       },
     },
     `gatsby-plugin-react-helmet`,
