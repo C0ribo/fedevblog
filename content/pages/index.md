@@ -1,6 +1,6 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: ""
 ---
 
 # 솜사탕 하리보
