@@ -6,6 +6,10 @@ tags:
 social_image: /media/kotlin.png
 description: 코틀린의 기본 구문 공식 레퍼런스 번역
 ---
+## 코틀린 공식 레퍼런스 번역
+번역 오류가 있습니다.
+
+---
 예제가 포함된 기본 구문 요소 모음입니다. 모든 섹션의 끝에는 관련 주제에 대한 자세한 설명으로 연결되는 링크가 있습니다.
 
 또한 JetBrains Academy의 무료 Kotlin Core 트랙을 통해 모든 Kotlin 필수 요소를 학습할 수도 있습니다.
