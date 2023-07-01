@@ -7,9 +7,9 @@ profile_image: /media/about_profile.png
 # I'm C0ribo   
 * * *
 
-* 프론트엔드 개발자가 되기 위한 기록형 블로그   
-* HTML CSS JavaScript
+* 하고 싶은 공부 기록 블로그
+* HTML CSS JavaScript Kotlin
 <b></b>   
-* contect : <dmsry1022@gmail.com>
+* contact : <dmsry1022@gmail.com>
 
 
