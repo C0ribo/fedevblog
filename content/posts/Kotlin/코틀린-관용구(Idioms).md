@@ -7,7 +7,7 @@ social_image: /media/kotlin.png
 description: 코틀린의 관용구 공식 레퍼런스 번역
 ---
 ## 코틀린 공식 레퍼런스 번역
-번역 오류가 있습니다.
+번역 오류가 있을 수 있습니다.
 
 ---
 
